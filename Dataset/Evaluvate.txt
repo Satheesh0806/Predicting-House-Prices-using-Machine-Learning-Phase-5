@@ -1,0 +1,16 @@
+
+Evaluate the model's model's performance, you can calculate performance using metrics like Mean Squared the RMSE and R2 score Error (MSE) and R2 score::
+
+```python
+rm
+
+```python
+mse =se = np.sqrt(mean_squ mean_squared_error(yared_error(y_test,_test, predictions)
+r2 = r2_ predictions))
+r2 = r2score(y_test, predictions)
+_score(y_test, predictions
+print("Mean Squared Error)
+
+print("RMSE: ",:", mse)
+print("R2 Sc rmse)
+print("Rore:", r2)
